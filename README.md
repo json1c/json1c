@@ -1,8 +1,8 @@
 ## Навыки
 - 👨‍💻 Python, TypeScript, JavaScript, Go (немного)
 - ⚙️ Flask, Django, GIN
-- 👁️ CSS, HTML
-- 💽 MySQL, SQL, PostgreSQL
+- 👁️ CSS, HTML, React, JS
+- 💽 MySQL, SQL, PostgreSQL, MongoDB
 
 ## Интересные проекты
 [![Button](https://badgen.net/badge/Telegram%20botnet/Telegram%20botnet/blue?icon=github&label)](https://github.com/json1c/telegram-raid-botnet)
