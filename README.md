@@ -1,8 +1,9 @@
 ## Навыки
 - 👨‍💻 Основной язык - Python, но еще выполнял работы на node.js, C, C++, C# и Java
-- ⚙️ Flask, Django, Sanic, FastAPI, GIN
+- 🕸 Flask, Django, Sanic, FastAPI, GIN
 - 👁️ CSS, HTML, JS, React.JS
 - 💽 MySQL, PostgreSQL, MongoDB
+- ⚙️ Redis, Docker, Prometheus & Pushgateway, Grafana
 
 ## Интересные проекты
 [![Button](https://badgen.net/badge/Telegram%20botnet/Telegram%20botnet/blue?icon=github&label)](https://github.com/json1c/telegram-raid-botnet)
