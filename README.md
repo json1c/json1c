@@ -1,15 +1,8 @@
-## About me
+### Hi there 👋
 
-Hi! I specialize in backend 
-development and infrastructure engineering. I design and maintain 
-high-load services, build Telegram ecosystems, and work extensively with Rust, Python, distributed 
-systems, database optimization, and DevOps workflows.
+#### I specialize in backend development and infrastructure engineering. I design and maintain  high-load services, build Telegram ecosystems, and work extensively with Rust, Python, distributed  systems, database optimization, and DevOps workflows.
 
-I’m highly focused on production 
-quality: monitoring and metrics, performance profiling, fault-tolerant 
-architecture, efficient queueing systems, caching strategies, and 
-overall resource optimization. I enjoy building systems that remain 
-fast, stable, and predictable under heavy load.
+#### I’m highly focused on production quality: monitoring and metrics, performance profiling, fault-tolerant architecture, efficient queueing systems, caching strategies, and overall resource optimization. I enjoy building systems that remain fast, stable, and predictable under heavy load.
 
 ## My skills
 
