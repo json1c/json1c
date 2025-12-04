@@ -1,13 +1,19 @@
-## Навыки
-- 👨‍💻 Основной язык - Python, но еще выполнял работы на node.js, C, C++, C# и Java
-- 🕸 Flask, Django, Sanic, FastAPI, GIN
-- 👁️ CSS, HTML, JS, React.JS
-- 💽 MySQL, PostgreSQL, MongoDB
-- ⚙️ Redis, Docker, Prometheus & Pushgateway, Grafana
+## About me
 
-## Интересные проекты
-[![Button](https://badgen.net/badge/Telegram%20botnet/Telegram%20botnet/blue?icon=github&label)](https://github.com/json1c/telegram-raid-botnet)
-[![Button](https://badgen.net/badge/Autobio/Autobio/blue?icon=github&label)](https://github.com/json1c/autobio)
+Hi! I specialize in backend 
+development and infrastructure engineering. I design and maintain 
+high-load services, build Telegram ecosystems, and work extensively with Rust, Python, distributed 
+systems, database optimization, and DevOps workflows.
 
-## Как со мной связаться
-[![Button](https://badgen.net/badge/Telegram/Telegram/blue?icon=telegram&label)](https://t.me/json1c)
+I’m highly focused on production 
+quality: monitoring and metrics, performance profiling, fault-tolerant 
+architecture, efficient queueing systems, caching strategies, and 
+overall resource optimization. I enjoy building systems that remain 
+fast, stable, and predictable under heavy load.
+
+## My skills
+
+[![My Skills](https://skillicons.dev/icons?i=bots,python,rust,cpp,nodejs,postgres,docker,redis,prometheus,grafana,nginx,html,nodejs,react,fastapi&theme=dark&perline=5)](https://skillicons.dev)
+
+## Contact me
+[![Button](https://badgen.net/badge/Telegram/Telegram/blue?icon=telegram&label&color=black)](https://t.me/json1c)
