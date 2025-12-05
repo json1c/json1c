@@ -11,7 +11,7 @@
 ## My stats
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20thousand%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C595%20hrs%2053%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -28,19 +28,8 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Python** 
 
-```text
-Python                   6 repos             █████████████████░░░░░░░░   66.67 % 
-Ruby                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Rust                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Go                       1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-```
-
-
-
-
- Last Updated on 05/12/2025 11:16:21 UTC
+ Last Updated on 05/12/2025 11:48:03 UTC
 <!--END_SECTION:waka-->
 
 ## Contact me
