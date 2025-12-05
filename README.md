@@ -8,5 +8,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=bots,python,rust,cpp,nodejs,postgres,docker,redis,prometheus,grafana,nginx,html,nodejs,react,fastapi&theme=dark&perline=5)](https://skillicons.dev)
 
+## My stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Contact me
 [![Button](https://badgen.net/badge/Telegram/Telegram/blue?icon=telegram&label&color=black)](https://t.me/json1c)
