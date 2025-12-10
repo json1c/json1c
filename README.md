@@ -11,7 +11,7 @@
 ## My stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C600%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C599%20hrs-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -34,7 +34,7 @@ WSL                      46 mins             ██████░░░░░�
 ```
 
 
- Last Updated on 09/12/2025 20:12:05 UTC
+ Last Updated on 10/12/2025 00:55:49 UTC
 <!--END_SECTION:waka-->
 
 ## Contact me
