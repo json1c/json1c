@@ -11,7 +11,7 @@
 ## My stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C665%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C663%20hrs%2036%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -35,7 +35,7 @@ Windows                  1 hr 6 mins         ██████░░░░░�
 ```
 
 
- Last Updated on 06/02/2026 20:22:05 UTC
+ Last Updated on 07/02/2026 01:04:46 UTC
 <!--END_SECTION:waka-->
 
 ## Contact me
