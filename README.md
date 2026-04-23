@@ -11,7 +11,7 @@
 ## My stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C703%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C707%20hrs%2049%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -19,19 +19,21 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   2 hrs 6 mins        ████████████████████████░   95.88 % 
-Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Python                   6 hrs 10 mins       ████████████████████████░   95.51 % 
+TOML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+INI                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 11 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 28 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 11 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/04/2026 01:29:15 UTC
+ Last Updated on 23/04/2026 05:59:08 UTC
 <!--END_SECTION:waka-->
 
 ## Contact me
