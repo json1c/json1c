@@ -11,7 +11,7 @@
 ## My stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C710%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C713%20hrs%2014%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -19,17 +19,21 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 6 mins        █████████████████████░░░░   84.54 % 
+TOML                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+INI                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 29 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/05/2026 21:29:52 UTC
+ Last Updated on 21/05/2026 02:08:21 UTC
 <!--END_SECTION:waka-->
 
 ## Contact me
