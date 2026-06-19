@@ -19,22 +19,22 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   2 hrs 11 mins       ███████████████████░░░░░░   76.56 % 
-Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Batchfile                12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Python                   1 hr 36 mins        ██████████████████░░░░░░░   70.55 % 
+Other                    14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+Batchfile                12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 51 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 16 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs               ██████████████████░░░░░░░   70.40 % 
-WSL                      50 mins             ███████░░░░░░░░░░░░░░░░░░   29.60 % 
+Windows                  1 hr 49 mins        ████████████████████░░░░░   80.50 % 
+WSL                      26 mins             █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
 ```
 
 
- Last Updated on 18/06/2026 21:55:49 UTC
+ Last Updated on 19/06/2026 02:52:02 UTC
 <!--END_SECTION:waka-->
 
 ## Contact me
