@@ -19,23 +19,23 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   5 hrs 52 mins       █████████████████░░░░░░░░   67.54 % 
-C#                       1 hr 45 mins        █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
-Binary                   38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-XML                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Python                   4 hrs 30 mins       ███████████████░░░░░░░░░░   61.45 % 
+C#                       1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
+Binary                   38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+XML                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 8 mins        ██████████████████░░░░░░░   70.50 % 
-Visual Studio            2 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   29.50 % 
+VS Code                  4 hrs 45 mins       ████████████████░░░░░░░░░   64.92 % 
+Visual Studio            2 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   35.08 % 
 
 💻 Operating System: 
-Windows                  6 hrs 34 mins       ███████████████████░░░░░░   75.51 % 
-WSL                      2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
+Windows                  6 hrs 34 mins       ██████████████████████░░░   89.78 % 
+WSL                      44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
 ```
 
 
- Last Updated on 05/07/2026 20:44:50 UTC
+ Last Updated on 06/07/2026 02:04:41 UTC
 <!--END_SECTION:waka-->
 
 ## Contact me
