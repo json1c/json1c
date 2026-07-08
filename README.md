@@ -11,7 +11,7 @@
 ## My stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C732%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C732%20hrs%2010%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -19,23 +19,23 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   9 hrs 11 mins       ███████████████████░░░░░░   75.91 % 
-C#                       1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Binary                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-XML                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Python                   5 hrs 40 mins       █████████████████░░░░░░░░   66.91 % 
+C#                       1 hr 45 mins        █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+Binary                   38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+XML                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 32 mins       ████████████████████░░░░░   78.78 % 
-Visual Studio            2 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
+VS Code                  5 hrs 54 mins       █████████████████░░░░░░░░   69.72 % 
+Visual Studio            2 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   30.28 % 
 
 💻 Operating System: 
-Windows                  6 hrs 34 mins       ██████████████░░░░░░░░░░░   54.31 % 
-WSL                      5 hrs 31 mins       ███████████░░░░░░░░░░░░░░   45.69 % 
+WSL                      4 hrs 46 mins       ██████████████░░░░░░░░░░░   56.37 % 
+Windows                  3 hrs 42 mins       ███████████░░░░░░░░░░░░░░   43.63 % 
 ```
 
 
- Last Updated on 07/07/2026 21:13:18 UTC
+ Last Updated on 08/07/2026 01:29:50 UTC
 <!--END_SECTION:waka-->
 
 ## Contact me
