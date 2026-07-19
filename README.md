@@ -11,7 +11,7 @@
 ## My stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C741%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C742%20hrs%2025%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -19,23 +19,23 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   5 hrs 38 mins       █████████████████░░░░░░░░   68.48 % 
-HTML                     1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-Markdown                 35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Python                   4 hrs 2 mins        ████████████████░░░░░░░░░   64.28 % 
+HTML                     1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+Roff                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 36 mins       ████████████████████░░░░░   80.23 % 
-Claude Code              1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+VS Code                  5 hrs 35 mins       ██████████████████████░░░   88.65 % 
+Claude Code              42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
 
 💻 Operating System: 
-WSL                      4 hrs 10 mins       █████████████░░░░░░░░░░░░   50.63 % 
-Windows                  4 hrs 3 mins        ████████████░░░░░░░░░░░░░   49.37 % 
+Windows                  4 hrs 33 mins       ██████████████████░░░░░░░   72.30 % 
+WSL                      1 hr 44 mins        ███████░░░░░░░░░░░░░░░░░░   27.70 % 
 ```
 
 
- Last Updated on 19/07/2026 01:29:03 UTC
+ Last Updated on 19/07/2026 06:21:50 UTC
 <!--END_SECTION:waka-->
 
 ## Contact me
