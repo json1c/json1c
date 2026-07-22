@@ -19,23 +19,23 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   2 hrs 5 mins        ██████████████████░░░░░░░   70.17 % 
-HTML                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-Roff                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-XML                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Python                   1 hr 58 mins        ██████████████████░░░░░░░   71.73 % 
+HTML                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+Roff                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+XML                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 48 mins       ███████████████████████░░   93.74 % 
-Claude Code              11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+VS Code                  2 hrs 34 mins       ███████████████████████░░   93.22 % 
+Claude Code              11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
 
 💻 Operating System: 
-Windows                  1 hr 45 mins        ███████████████░░░░░░░░░░   58.96 % 
-WSL                      1 hr 13 mins        ██████████░░░░░░░░░░░░░░░   41.04 % 
+Windows                  1 hr 45 mins        ████████████████░░░░░░░░░   63.84 % 
+WSL                      59 mins             █████████░░░░░░░░░░░░░░░░   36.16 % 
 ```
 
 
- Last Updated on 22/07/2026 01:27:54 UTC
+ Last Updated on 22/07/2026 06:20:34 UTC
 <!--END_SECTION:waka-->
 
 ## Contact me
