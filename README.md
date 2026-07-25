@@ -11,8 +11,6 @@
 ## My stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C745%20hrs%2032%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -35,7 +33,7 @@ WSL                      57 mins             ███████████�
 ```
 
 
- Last Updated on 24/07/2026 20:54:06 UTC
+ Last Updated on 25/07/2026 01:42:56 UTC
 <!--END_SECTION:waka-->
 
 ## Contact me
