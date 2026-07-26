@@ -11,7 +11,7 @@
 ## My stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C745%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C747%20hrs%2012%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -19,24 +19,23 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   2 hrs 43 mins       █████████████████████░░░░   85.77 % 
-Roff                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-HTML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Python                   2 hrs 18 mins       █████████████████████░░░░   84.92 % 
+JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 2 mins        ████████████████████████░   95.80 % 
-Claude Code              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-Copilot CLI              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+VS Code                  2 hrs 41 mins       █████████████████████████   98.60 % 
+Copilot CLI              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 💻 Operating System: 
-Windows                  1 hr 48 mins        ██████████████░░░░░░░░░░░   56.78 % 
-WSL                      1 hr 22 mins        ███████████░░░░░░░░░░░░░░   43.22 % 
+WSL                      1 hr 22 mins        █████████████░░░░░░░░░░░░   50.40 % 
+Windows                  1 hr 21 mins        ████████████░░░░░░░░░░░░░   49.60 % 
 ```
 
 
- Last Updated on 26/07/2026 01:45:18 UTC
+ Last Updated on 26/07/2026 06:28:10 UTC
 <!--END_SECTION:waka-->
 
 ## Contact me
