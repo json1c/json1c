@@ -11,7 +11,9 @@
 ## My stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C753%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C733%20hrs%2022%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2058%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -34,8 +36,30 @@ Windows                  3 hrs 46 mins       ███████████�
 WSL                      54 mins             █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 27/07/2026 14:08:27 UTC
+```text
+⏱ AI Coding Time: 4 mins (1.45%)
+
+✍️ 0 lines written by AI, 1,784 lines written by hand (0.0% AI-written)
+
+🔤 19,456 Input Tokens, 99 Output Tokens
+
+💵 $0.06 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 3 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+```
+
+
+ Last Updated on 27/07/2026 17:28:19 UTC
 <!--END_SECTION:waka-->
 
 ## Contact me
