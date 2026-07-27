@@ -11,7 +11,7 @@
 ## My stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C745%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C751%20hrs%2038%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -19,23 +19,23 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   2 hrs 18 mins       █████████████████████░░░░   84.92 % 
-JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Python                   3 hrs 39 mins       ████████████████████░░░░░   78.14 % 
+Text                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 41 mins       █████████████████████████   98.60 % 
-Copilot CLI              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+VS Code                  4 hrs 39 mins       █████████████████████████   99.18 % 
+Copilot CLI              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 💻 Operating System: 
-WSL                      1 hr 22 mins        █████████████░░░░░░░░░░░░   50.40 % 
-Windows                  1 hr 21 mins        ████████████░░░░░░░░░░░░░   49.60 % 
+Windows                  3 hrs 46 mins       ████████████████████░░░░░   80.55 % 
+WSL                      54 mins             █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
 ```
 
 
- Last Updated on 27/07/2026 01:52:26 UTC
+ Last Updated on 27/07/2026 06:53:59 UTC
 <!--END_SECTION:waka-->
 
 ## Contact me
