@@ -21,49 +21,49 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   13 hrs 57 mins      █████████████████░░░░░░░░   67.25 % 
-Markdown                 3 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-Text                     1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-TOML                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Python                   13 hrs 16 mins      ██████████████████░░░░░░░   73.87 % 
+Markdown                 3 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
+TOML                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+XML                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+INI                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 24 mins      ███████████████████░░░░░░   74.26 % 
-VS Code                  5 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
+Claude Code              13 hrs 59 mins      ███████████████████░░░░░░   77.81 % 
+VS Code                  3 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
 
 💻 Operating System: 
-Windows                  20 hrs 35 mins      █████████████████████████   99.28 % 
-WSL                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Windows                  17 hrs 49 mins      █████████████████████████   99.17 % 
+WSL                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 49 mins (95.59%)
+⏱ AI Coding Time: 17 hrs 11 mins (95.64%)
 
-✍️ 16,571 lines written by AI, 108 lines written by hand (99.35% AI-written)
+✍️ 23,600 lines written by AI, 108 lines written by hand (99.54% AI-written)
 
-🔤 128,539,401 Input Tokens, 2,405,552 Output Tokens
+🔤 64,810,515 Input Tokens, 2,058,995 Output Tokens
 
-💵 $1006.42 Estimated AI Cost This Week
+💵 $654.12 Estimated AI Cost This Week
 
-🧠 53 AI Sessions, 125 AI Prompts
+🧠 45 AI Sessions, 100 AI Prompts
 
-Opus                     16,864 lines        █████████████████████████   100.00 % 
+Opus                     23,879 lines        █████████████████████████   100.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.35% of written lines came from AI
-📚 Verbose Prompter — average 9,283 characters per prompt
+🤖 AI-Driven — 99.54% of written lines came from AI
+📚 Verbose Prompter — average 3,625 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 1.1% of changed lines were hand-edited
+🚀 High AI Trust — 21.92% of changed lines were hand-edited
 ```
 
 
- Last Updated on 22/08/2026 20:10:32 UTC
+ Last Updated on 23/08/2026 00:38:17 UTC
 <!--END_SECTION:waka-->
 
 ## Contact me
