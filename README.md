@@ -21,47 +21,47 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   3 hrs 47 mins       ████████████░░░░░░░░░░░░░   47.67 % 
-HTML                     1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-Other                    50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-Markdown                 49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Text                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+Python                   2 hrs 34 mins       ████████████░░░░░░░░░░░░░   49.30 % 
+Other                    50 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Markdown                 47 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+HTML                     39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+Text                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 51 mins       ██████████████████████░░░   86.10 % 
-VS Code                  50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Grok Build               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Claude Code              4 hrs 6 mins        ████████████████████░░░░░   78.81 % 
+VS Code                  50 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Grok Build               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 57 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 19 mins (91.95%)
+⏱ AI Coding Time: 4 hrs 34 mins (87.73%)
 
-✍️ 11,421 lines written by AI, 65 lines written by hand (99.43% AI-written)
+✍️ 5,540 lines written by AI, 65 lines written by hand (98.84% AI-written)
 
-🔤 4,165,283 Input Tokens, 1,254,218 Output Tokens
+🔤 2,712,897 Input Tokens, 739,408 Output Tokens
 
-💵 $123.12 Estimated AI Cost This Week
+💵 $65.87 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 62 AI Prompts
+🧠 17 AI Sessions, 37 AI Prompts
 
-Opus                     11,515 lines        █████████████████████████   100.00 % 
+Opus                     5,612 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.43% of written lines came from AI
-📄 Detailed Prompter — average 1,334 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.63% of changed lines were hand-edited
+🤖 AI-Driven — 98.84% of written lines came from AI
+📄 Detailed Prompter — average 1,422 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 1.28% of changed lines were hand-edited
 ```
 
 
- Last Updated on 14/10/2026 02:34:45 UTC
+ Last Updated on 14/10/2026 09:06:46 UTC
 <!--END_SECTION:waka-->
 
 ## Contact me
