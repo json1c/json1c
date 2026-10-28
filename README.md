@@ -21,43 +21,41 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-HTML                     33 mins             █████████████████░░░░░░░░   69.87 % 
-Python                   14 mins             ████████░░░░░░░░░░░░░░░░░   30.13 % 
+HTML                     23 mins             ██████████████████████░░░   88.34 % 
+Python                   3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
 
 🔥 Editors: 
-Claude Code              33 mins             █████████████████░░░░░░░░   69.87 % 
-VS Code                  14 mins             ███████░░░░░░░░░░░░░░░░░░   29.97 % 
-OpenCode                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Claude Code              23 mins             ██████████████████████░░░   88.34 % 
+VS Code                  3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
 
 💻 Operating System: 
-Windows                  48 mins             █████████████████████████   100.00 % 
+Windows                  26 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 45 mins (93.74%)
+⏱ AI Coding Time: 23 mins (88.34%)
 
-✍️ 639 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 405 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 972,455 Input Tokens, 144,288 Output Tokens
+🔤 456,975 Input Tokens, 97,167 Output Tokens
 
-💵 $13.00 Estimated AI Cost This Week
+💵 $9.22 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 3 AI Prompts
+🧠 2 AI Sessions, 0 AI Prompts
 
-Opus                     603 lines           ████████████████████████░   94.07 % 
-Sonnet                   38 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Opus                     405 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 30 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📝 Concise Prompter — average 0 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/10/2026 23:18:39 UTC
+ Last Updated on 28/10/2026 02:56:20 UTC
 <!--END_SECTION:waka-->
 
 ## Contact me
